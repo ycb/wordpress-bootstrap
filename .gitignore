@@ -3,3 +3,5 @@ admin/themes/
 .DS_Store
 Thumbs.db
 sftp-config.json
+
+.DS_Store
